@@ -2,21 +2,21 @@
 
 A simple yet functional Employee Payroll Management System developed using C++, File Handling, and BGI Graphics (Turbo C++).
 This project allows users to maintain employee records, calculate salaries, and manage payroll operations in a structured manner.
-                         
-🚀 Features           
+                                                                          
+🚀 Features
 ✔️ Employee Management
 
 Add new employee
 
 Edit/modify existing employee
 
-View all employee records
+View all employee records                
 
 Auto-save all details in employee.txt
 
 💰 Payroll Processing
 
-Basic Pay calculation
+Basic Pay calculation                       
 
 DA (10% of BP)
 
